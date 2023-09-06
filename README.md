@@ -5,4 +5,4 @@ Hello!
 
 Im new in this word, hope you like my job.
 
-Im learning python and html
+Im learning JS an aws
